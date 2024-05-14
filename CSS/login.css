@@ -1,0 +1,16 @@
+* {
+    display: f;
+}
+
+body {
+    background-color: #546A7B;
+}
+
+.quadrado {
+    width: 900px;
+    height: 10px; 
+    background-color: #62929E; 
+    border-radius: 45px;
+    display: flex;
+    flex-direction: column;
+}
